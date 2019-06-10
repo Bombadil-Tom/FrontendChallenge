@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) by Mark Huber uxhuber@gmail.com as an interview challenge for Scoop.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) as an interview challenge.
 
 ## Available Scripts
 
@@ -18,7 +18,7 @@ Regular development mode. Has all functionalities.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br>
-While developing I used a couple of tests to ensure stable code when adding or changing features.
+While developing I used [https://airbnb.io/enzyme/](enzyme) to write some tests to ensure stable code when adding or changing features.
 
 ### `npm run build`
 
